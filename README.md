@@ -30,7 +30,7 @@ Stash Bash saves these for you in a directory under $HOME:
 Since you might want to create functions which rely on other functions you've
 defined, there's a facility for expressing dependencies, which is consulted
 by the tool which loads all your functions into a new shell. That file
-is called ~/.stash-bash/_depends , and is run through [tsort](http://en.wikipedia.org/wiki/Tsort_(Unix))
+is called ~/.stash-bash/_depends , and is run through [tsort](http://en.wikipedia.org/wiki/Tsort_(Unix%29)
 
 Load it all back in with
 
